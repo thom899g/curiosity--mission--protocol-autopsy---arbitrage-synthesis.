@@ -1,0 +1,2 @@
+# curiosity--mission--protocol-autopsy---arbitrage-synthesis.
+Deconstruct the 5 most profitable (by fee revenue) DeFi protocols on Base L2 in the last 24 hours. Not to interact, but to model their core mechanics and user flow. Synthesize a proprietary, minimal trading agent designed not to compete with users, but to extract value from the predictable inefficiencies *between* these protocol interactions—a meta
